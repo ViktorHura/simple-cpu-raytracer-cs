@@ -1,0 +1,10 @@
+C:\Users\Viktor\source\repos\raytrace\bin\Release\raytrace.exe.config
+C:\Users\Viktor\source\repos\raytrace\bin\Release\raytrace.exe
+C:\Users\Viktor\source\repos\raytrace\bin\Release\raytrace.pdb
+C:\Users\Viktor\source\repos\raytrace\bin\Release\MedallionRandom.dll
+C:\Users\Viktor\source\repos\raytrace\bin\Release\MedallionRandom.xml
+C:\Users\Viktor\source\repos\raytrace\obj\Release\raytrace.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\source\repos\raytrace\obj\Release\raytrace.csproj.CopyComplete
+C:\Users\Viktor\source\repos\raytrace\obj\Release\raytrace.exe
+C:\Users\Viktor\source\repos\raytrace\obj\Release\raytrace.pdb
+C:\Users\Viktor\source\repos\raytrace\obj\Release\raytrace.csprojAssemblyReference.cache
